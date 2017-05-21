@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">RepeatCancellation</string>
+
+    <string-array name="image">
+        <item>bmp</item>
+        <item>cmx</item>
+        <item>cod</item>
+        <item>gif</item>
+        <item>ico</item>
+        <item>ief</item>
+        <item>jpe</item>
+        <item>jpeg</item>
+        <item>jpg</item>
+        <item>jfif</item>
+        <item>pbm</item>
+        <item>pgm</item>
+        <item>png</item>
+        <item>pnm</item>
+        <item>ppm</item>
+        <item>ras</item>
+        <item>rgb</item>
+        <item>svg</item>
+        <item>tif</item>
+        <item>tiff</item>
+        <item>xbm</item>
+        <item>xpm</item>
+        <item>xwd</item>
+    </string-array>
+    <string-array name="video">
+        <item>webm</item>
+        <item>mkv</item>
+        <item>flv</item>
+        <item>vob</item>
+        <item>ogv</item>
+        <item>ogg</item>
+        <item>drc</item>
+        <item>avi</item>
+        <item>mov</item>
+        <item>wmv</item>
+        <item>yuv</item>
+        <item>rm</item>
+        <item>rmvb</item>
+        <item>amv</item>
+        <item>mp4</item>
+        <item>m4p </item>
+        <item>mp2</item>
+        <item>m4v</item>
+        <item>3gp</item>
+        <item>flv</item>
+        <item>f4v</item>
+        <item>svi</item>
+        <item>f4b</item>
+    </string-array>
+</resources>
